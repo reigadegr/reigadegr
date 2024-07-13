@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 
 [![Timeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=reigadegr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Timeline's Top language](https://github-readme-stats.vercel.app/api/top-langs?username=reigadegr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Programming Languages
+[<img height="26" src="https://shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=C&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/C_(programming_language))
+[<img height="26" src="https://shields.io/badge/Rust-FFFFFF.svg?style=flat-square&logo=rust&logoColor=000000"/>](https://en.wikipedia.org/wiki/Rust_(programming_language))
+[<img height="26" src="https://shields.io/badge/Java-F80000.svg?style=flat-square&logo=oracle&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/Java_(programming_language))
