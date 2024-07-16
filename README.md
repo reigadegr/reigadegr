@@ -10,7 +10,7 @@
 
 💬 Ask me about software development best practices, my experiences in coding projects, or my insights on the latest tech trends in the software industry.
 
-📫 How to reach me: You can reach me via email at [your-email@example.com], or connect with me on LinkedIn at linkedin.com/in/yourprofile.
+📫 How to reach me: You can reach me via email at [2722688642@qq.com], or connect with me on LinkedIn at linkedin.com/in/yourprofile.
 
 😄 Pronouns: He/Him or She/Her (choose the one that suits you).
 
