@@ -5,9 +5,8 @@
 - A novice developer.
 
 ## 📱 Devices in use
-[![Redmi Note 11T Pro+](https://img.shields.io/badge/OnePlus%2012-F5010C?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.mi.com/)
-[![Lenovo Legion R7000P 2020H](https://img.shields.io/badge/MECHREVO%20Jiaolong%2015-6A5FBB?style=flat-square&logo=nintendogamecube&logoColor=ffffff)](https://shop.lenovo.com.cn/)
-
+[![Redmi Note 11T Pro+](https://img.shields.io/badge/Redmi%20Note%2011T%20Pro%2B-小米?style=flat-square&logo=小米&logoColor=ffffff)](https://www.mi.com/)
+[![Lenovo Legion R7000P 2020H](https://img.shields.io/badge/Lenovo%20Legion%20R7000P%202020H-联想?style=flat-square&logo=联想&logoColor=ffffff)](https://shop.lenovo.com.cn/)
 
 [![Timeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=reigadegr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
