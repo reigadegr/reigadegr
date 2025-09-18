@@ -27,6 +27,5 @@ My account data 👇
 
 ![MyLang](https://miyuki-github.vercel.app/api/top-langs/?username=reigadegr&show_icons=true&bg_color=23272A&title_color=FFC0CB&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reigadegr&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reigadegr&theme=radical&layout=donut)
+#### 🐾 Visitor
+![:reindex-ot](https://count.getloli.com/get/@:reigadegr)
